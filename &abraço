@@ -1,5 +1,5 @@
 $nomention
 $deletecommand
-$argsCheck[>1; <a:aemoji:768496216941395968> | Vc Tem que mencionar Uma Player para o comando funcionar ]
+$argsCheck[>1; | Vc Tem que mencionar Uma Player para o comando funcionar ]
 $description[<@$authorID> **Abraçou O  <@$mentioned[<]>Que abraço Gostoso**]
 $image[$randomText[Aqui vcs Irao coocar os gif]]
