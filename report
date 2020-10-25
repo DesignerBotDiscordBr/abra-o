@@ -1,6 +1,6 @@
 $nomention
 $argsCheck[>1; **Vc tem Que colocar algo para reportar**]
-$dm[762352858468712458]
+$dm[Coloque O seu Id Aqui]
 
 **REPORTE DE BUG**
 
@@ -9,4 +9,4 @@ $dm[762352858468712458]
 
 **Oque O $username reportou**
 `$message`
-$channelSendMessage[$channelID; <a:aVerificado:769195227717959731> | <@$authorID> **Sua mensagem foi enviado com sucesso!**<a:aVerificado:769195227717959731>]
+$channelSendMessage[$channelID;  | <@$authorID> **Sua mensagem foi enviado com sucesso!**]
