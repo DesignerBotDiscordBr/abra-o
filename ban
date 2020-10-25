@@ -1,0 +1,14 @@
+$nomention
+$deletecommand
+$deleteIn[1m]
+$title[Usuario Banido]
+$description[
+
+| **Banido** = <@$mentioned[1]>
+| **Admin = <@$authorID>**
+| **Motivo** = **$noMentionMessage**
+]
+$ban
+$argsCheck[>1; ** | Vc Precisa mencionar alguem para Banir!!** ]
+$channelSendMessage[$channelID;  | <@$authorID> **$username Banido com sucesso!**]
+$image[https://media.giphy.com/media/Rem04mYeonaX9pTNhE/giphy.gif]
