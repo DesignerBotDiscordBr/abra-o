@@ -1,0 +1,8 @@
+$onlyAdmin[Vc não tem permissão para usar este comando]
+$title[$message Mensagens foi apagadas com sucesso]
+$color[00FF00]
+$cooldown[10s;Vc tem q UEe esperar %time% Para realizar este comando novamente]
+$clear
+$footer[As mensagens Foram apagadas por $username]
+$deletecommand
+$deleteIn[1s]$nomention
