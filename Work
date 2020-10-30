@@ -1,0 +1,7 @@
+$title[Trabalhando]
+$thumbnail[$userAvatar[$authorID]]
+$color[]
+$description[trabalhando...]
+$editIn[**Voce Trabalhou de $randomText[] E Vc ganhou $random[10;1000]**]$setUserVar[dinheiro;$sum[$getUserVar[banco];$random[10;1000]]
+$nomention
+$cooldown[3s; espere %time% para usar denovo]
